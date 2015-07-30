@@ -1,0 +1,12 @@
+* Commons [New] Image Auditor
+
+* RevDel & File RevDel
+* Log Fetching
+* Recent Changes
+* Search
+
+* MBot organization will benefit from lambdas and aggregate ops
+
+* Purge should take multiple params in WAction
+
+* Need to update my javadocs
